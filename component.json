@@ -2,7 +2,7 @@
   "name": "analytics.js-integration-bing-ads",
   "repo": "segment-integrations/analytics.js-integration-bing-ads",
   "description": "The Bing Ads analytics.js integration.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "MIT",
   "main": "lib/index.js",
   "dependencies": {
